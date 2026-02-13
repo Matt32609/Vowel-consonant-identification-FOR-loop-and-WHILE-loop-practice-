@@ -3,5 +3,5 @@ To run the code:
 
 OR
 
-- chmod +x ./for\ loop\ and\ while\ loop\ practice.py
+- chmod +x for\ loop\ and\ while\ loop\ practice.py
 - ./for\ loop\ and\ while\ loop\ practice.py
